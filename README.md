@@ -89,12 +89,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
-
-> *(Optional: Add UI screenshots here for summary, Q\&A, flashcards, glossary, etc.)*
-
----
-
 ## 👤 Author
 
 **Krishna Venugopal**
